@@ -3,4 +3,4 @@ E389 Unlock Wordpress Plugin : https://docice.bohramt.de/huawai-e398-telekom-spe
 
 Shortcode [e389]
 
-Generates Unlock and Flash Codes for uawai E398 / Telekom Speedstick LTE / Vodafone K5005 and similar
+Generates Unlock and Flash Codes for Huawai E398 / Telekom Speedstick LTE / Vodafone K5005 and similar
